@@ -1,0 +1,9 @@
+ACME Cloud Services Inc.
+Invoice #: INV-98234
+Date: October 15, 2024
+Customer: LazyDesk Dev Team
+Description: High-Performance GPU Cloud Compute (72 hours)
+Subtotal: $240.00
+Tax: $19.20
+Total Amount Due: $259.20
+Payment Status: Paid via Credit Card ending in 4092
